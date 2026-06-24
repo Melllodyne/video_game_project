@@ -4,7 +4,8 @@ An autoscroller/runner game where Mario must get to the end of the level and avo
 ## How to Play
 - Pressing Z starts the game, continues past cutscenes, and resets the game to the start if on the RETRY screen.
 ## Features
-- A playable character has a feature where by holding down, and holding X on top of that can charge up speed and release it in a boost.
+- More than one playable character.
+- Said other playable character has a feature where by holding down, and holding X on top of that can charge up speed and release it in a boost.
 - The levels increase in difficulty by upping the spawn chance and dealing with a certain new mechanic of the aformentioned playable character.
 ## Assets
 - mario's spritesheet - heavily altered spritesheet, with sprites from Super Mario World, retrieved from The Spriters Resource
@@ -24,6 +25,7 @@ One challenge I solved:
 
 One thing I would improve if I had more time:
 - Make collisions smoother, less jankier, more refined character movement overall.
+- At least one more cutscene that explains why Sonic's here.
 - Properly implement Bowser's boss fight.
 
 
