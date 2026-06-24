@@ -1,6 +1,6 @@
 # Game Title
 ## Description
-Briefly explain what your game is about.
+An autoscroller/runner game where Mario must get to the end of the level and avoid enemies along the way!
 ## How to Play
 - Pressing Z starts the game, continues past cutscenes, and resets the game to the start if on the RETRY screen.
 ## Features
